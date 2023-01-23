@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "AAW",
+      "email": "aaw@gmail.com",
+      "phone": "09100200300"
+    },
+    {
+      "id": 2,
+      "name": "AWA",
+      "email": "awa@gmail.com",
+      "phone": "09300400500"
+    },
+    {
+      "id": 3,
+      "name": "WAA",
+      "email": "waa@gmail.com",
+      "phone": "09600700800"
+    },
+    {
+      "id": 4,
+      "name": "WWA",
+      "email": "wwa@gmail.com",
+      "phone": "09900100000"
+    }
+  ]
+}
